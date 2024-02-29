@@ -16,6 +16,7 @@
 
 package androidx.compose.samples.crane.data
 
+import kotlinx.coroutines.delay
 import javax.inject.Inject
 
 class DestinationsRepository @Inject constructor(
